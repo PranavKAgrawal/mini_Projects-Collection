@@ -1,1 +1,1 @@
-# mini_Projects-Collection
+# Collection of mini Projects
